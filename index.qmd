@@ -1,5 +1,5 @@
 ---
-title: "Your Name" 
+title: "B.H. CHoe" 
 about:
   template: solana
   image: img/logo.png
